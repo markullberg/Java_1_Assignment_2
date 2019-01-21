@@ -29,6 +29,7 @@ Input Validation:
 2. Do not accept negative values for the circle’s radius, the rectangle’s length or width, or triangle’s base or height. You can use either if/else statement or an input validation loop for that purpose. 
 
 Name your solution project Geometry.java
+This is for Jonathan
 -----------------------------------------------------------------------------------------------------------------------------------------
 */
 
